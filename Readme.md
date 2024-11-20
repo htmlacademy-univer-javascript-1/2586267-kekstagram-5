@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [laulligruboppoi 5709](https://up.htmlacademy.ru/univer-js1/5/user/2586267).
-* Наставник: `Неизвестно`.
+- Студент: [laulligruboppoi 5709](https://up.htmlacademy.ru/univer-js1/5/user/2586267).
+- Наставник: [Рогулин Леонид](https://htmlacademy.ru/profile/id2544999).
 
 ---
 
